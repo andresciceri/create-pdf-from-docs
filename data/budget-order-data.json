@@ -1,0 +1,33 @@
+{
+  "created": "01-07-2022",
+  "revision": {
+    "external_id": "WK-007"
+  },
+  "customer": {
+    "name": "Agropecuaria Aliar SA",
+    "identification": "890207037",
+    "properties": {
+      "contact": "Harry Diaz",
+      "email": "harry.diaz@aliar.com.co",
+      "city": "Floridablanca"
+    }
+  },
+  "parts": [
+    {
+      "sku": {
+        "display_name": "Boquilla 3 in para filtro",
+        "external_id": "610603",
+        "properties": { "price": 22000 }
+      },
+      "amount": 2
+    },
+    {
+      "sku": {
+        "display_name": "FILTRO-GM",
+        "external_id": "610602",
+        "properties": { "price": 200000 }
+      },
+      "amount": 1
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "create-pdf-from-docs",
+  "version": "1.0.0",
+  "description": "Project to create PDF from Word Documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hugo Andres Escobar",
+  "license": "ISC",
+  "dependencies": {
+    "docx-templates": "*",
+    "isomorphic-fetch": "2.2.1",
+    "libreoffice-convert": "^1.4.1",
+    "prettier": "^1.18.2",
+    "yaqrcode": "^0.2.1"
+  }
+}
